@@ -1,1 +1,1 @@
-# Algoritma_Struktur_Data
+Proyek ini adalah aplikasi manajemen gudang berbasis Java console yang menerapkan struktur data array, algoritma sorting, searching, rekursi, serta analisis kompleksitas waktu (Big O) sebagai implementasi mata kuliah Algoritma dan Struktur Data.
